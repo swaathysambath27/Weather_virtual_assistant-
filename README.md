@@ -5,7 +5,7 @@ Chatbox for weather conditions and forecasts using python
 -------------
 
 ## About 
-Skills - Tells the weather for a place <br/>
+**Skills** - Tells the weather for a place <br/>
 The chat box helps to get the weather conditions around any place in the world, forecasts and more details by giving the location name in the chat box. The weather conditions and forecasts are from the [Open weather map API](https://openweathermap.org/api) of the current weather data. <br/>
 <br/>
 This chatbox is developed with python code and gives the current weather conditions in degree celcius. The forecast give more information regarding the weather like the <br/>
