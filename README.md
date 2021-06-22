@@ -39,7 +39,7 @@ Python is a high-level programming language that allows people to easily create 
 Go to [https://python.org/](https://python.org/)
 Select the latest version of **Python 3** (3.6.0) to install
 #### Step 2
-Download the Python Executable Installer and install the ![Python 3.6.0 installer](imgs/040_installer.png)
+Download the Python Executable Installer and install the Python 3.6.0 installer
 #### Step 3
 Run the executable installer
 #### Step 4
@@ -49,8 +49,9 @@ Check Python is Installed On Windows by typing **python**
 Check Pip is Installed by typing **pip --version** or **pip -V** in the console
 #### Step 6
 Run the code in the console by .py file
-#### Step 7(Optional)
-Add Python Path to Environment Variables in the system under **System Properties -> Advanced -> Environment variables**
+```
+$ python weather_virtual_assistant.py
+```
 
 ## Method 2
 
