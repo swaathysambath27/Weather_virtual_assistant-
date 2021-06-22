@@ -43,6 +43,6 @@ Run the code in the console by .py file
 Add Python Path to Environment Variables in the system under **System Properties -> Advanced -> Environment variables**
 
 ## Method 2
-=======================================
+-------------
 -- For an easy web access version use [Google colab](https://colab.research.google.com/drive/1WgdLpkqNBf3AB8LPUxpMkErVnv2yLAiA?usp=sharing) 
 or use python 3 through Anaconda- Jupyter notebook/PyCharm
