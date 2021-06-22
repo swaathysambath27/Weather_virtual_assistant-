@@ -12,3 +12,4 @@ This chatbox is developed with python code and gives the current weather conditi
 ## Steps to install and run the program
 
 ### Step 1
+Install python3 or for an easy web access version use Google colab (https://colab.research.google.com/drive/1WgdLpkqNBf3AB8LPUxpMkErVnv2yLAiA?usp=sharing)
