@@ -11,5 +11,25 @@ This chatbox is developed with python code and gives the current weather conditi
    
 ## Steps to install and run the program
 
-### Step 1
-Install python3 or for an easy web access version use Google colab (https://colab.research.google.com/drive/1WgdLpkqNBf3AB8LPUxpMkErVnv2yLAiA?usp=sharing)
+### Method 1
+Steps to Install python3 on Windows <br/>
+#### Step 1
+Select the latest version of python 3 to install
+#### Step 2
+Download the Python Executable Installer
+#### Step 3
+Run the executable installer
+#### Step 4
+Open command prompt and navigate to the directory in which Python is installed on the system. <br/>
+Check Python is Installed On Windows by typing **python**
+#### Step 5
+Check Pip is Installed by typing **pip --version** or **pip -V** in the console
+#### Ste 6
+Run the code in the console by .py file
+#### Step 7(Optional)
+Add Python Path to Environment Variables in the system under **System Properties -> Advanced -> Environment variables**
+
+
+### Method 2
+For an easy web access version use Google colab (https://colab.research.google.com/drive/1WgdLpkqNBf3AB8LPUxpMkErVnv2yLAiA?usp=sharing) 
+or use python 3 through Anaconda- Jupyter notebook/PyCharm
